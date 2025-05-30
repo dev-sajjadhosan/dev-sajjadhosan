@@ -1,4 +1,4 @@
-<p align="center"><a href="https://dev-sajjadhosan.github.io"><img width="80%" alt="Hello, I'm Sajjad. I do open source!" src="./assets/dev_sajjadhosan.png" /></a></p>
+<p align="center"><a href="https://dev-sajjadhosan.github.io"><img width="80%" alt="Hello, I'm Mohammad Sajjad Hosan. I love Lazyness!" src=".\assets\dev_sajjadhosan.png" /></a></p>
 
 <br />
 
