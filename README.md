@@ -26,13 +26,13 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-Javascript-E1DF1E?style=flat-square&logo=javascript&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Github-222?style=flat-square&logo=github&logoColor=white" />
-
+  <img alt="git" src="https://img.shields.io/badge/-Github-222?style=flat-square&logo=github&logoColor=white" />
+</p>
+<p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Express-4E1A7A?style=flat-square&logo=Express&logoColor=white" />
- <img alt="React" src="https://img.shields.io/badge/-React-003092?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-003092?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-
 </p>
 <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -67,20 +67,15 @@
 <a href="">
   <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 <a href="">
-  <img alt="Github" src="https://img.shields.io/badge/-Github-323232?style=flat-square&logo=github&logoColor=white" />
-</a>
+  <img alt="Github" src="https://img.shields.io/badge/-Github-323232?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="">
-  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-D32F87?style=flat-square&logo=Instagram&logoColor=white" />
-</a>
+  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-D32F87?style=flat-square&logo=Instagram&logoColor=white" /></a>
 <a href="">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1877F2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1877F2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="">
-  <img alt="Discord" src="https://img.shields.io/badge/-LinkedIn-7289DA?style=flat-square&logo=discord&logoColor=white" />
-</a>
+  <img alt="Discord" src="https://img.shields.io/badge/-LinkedIn-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
 <a href="">
-  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-F4B400?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-F4B400?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
   <!-- <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> -->
