@@ -1,89 +1,92 @@
-<p align="center"><a href="https://dev-sajjadhosan.github.io"><img width="80%" alt="Hello, I'm Mohammad Sajjad Hosan. I love Lazyness!" src=".\assets\dev_sajjadhosan.png" /></a></p>
-
-<br />
-
-### I'm a self-taught 🧑‍💻 passionate MERN developer from Bangladesh 🇮🇳 ⬇️
-
-<br/>
-
-# About me 🧐
-
-- 👋 Greeting Visitor,
-- 💻 A developer who codes for the joy of creating.
-- 🎯 While I code for fun, I find purpose in helping others through my work.
-- 🛠️ I build projects people can use, enjoy, and grow with.
-- 🌍 For public work, the user always comes first — without them, the project has no meaning.
-  -🧠 I welcome feedback and see every suggestion as a step toward better solutions.
-
-- 💬 Ask me about anything [here](https://github.com/dev-sajjadhosan/issues)
-
-<br>
-<br>
-
-## My Achivements 😏
-
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-Javascript-E1DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Github-222?style=flat-square&logo=github&logoColor=white" />
-</p>
-<p>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Express-4E1A7A?style=flat-square&logo=Express&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-003092?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-<p>
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-Socket.io-010002?style=flat-square&logo=socket.io&logoColor=white" />
-
-</p>
-<p>
-
-<img alt="TypeScript" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-Vercel-333?style=flat-square&logo=vercel&logoColor=white" />
+<p align="center">
+  <a href="https://dev-sajjadhosan.github.io" target="_blank">
+    <img src="./assets/dev_sajjadhosan.png" alt="Hey, I'm Sajjad Hosan!" width="80%">
+  </a>
 </p>
 
-<br/>
-<br/>
+<h1 align="center">Hey, I'm <span style="color:#00C9A7">Sajjad</span> 👋</h1>
 
-## Github Status 🧑‍💻
-
-| <a href="https://github.com/dev-sajjadhosan/github-readme-stats">![Sajjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-sajjadhosan&show_icons=true&theme=dark&hide_border=true)</a> | <a href="https://github.com/dev-sajjadhosan/github-readme-stats">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sajjadhosan&layout=compact)</a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<!-- #### Top Repositories -->
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sajjadhosan&repo=github-readme-stats&theme=dark&hide_border=true" />
-</a> -->
-
-<br />
-<br />
-
-## Contact me 😎
-<p>
-<a href="https://web.facebook.com/MohammadSajjadHosan0">
-  <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-<a href="https://github.com/dev-sajjadhosan">
-  <img alt="Github" src="https://img.shields.io/badge/-Github-323232?style=flat-square&logo=github&logoColor=white" /></a>
-<!-- <a href="">
-  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-D32F87?style=flat-square&logo=Instagram&logoColor=white" /></a> -->
-<a href="https://www.linkedin.com/in/devsajjadhosan">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1877F2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<!-- <a href="">
-  <img alt="Discord" src="https://img.shields.io/badge/-LinkedIn-7289DA?style=flat-square&logo=discord&logoColor=white" /></a> -->
-<a href="mailto:devsajjadhosan@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-F4B400?style=flat-square&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  🧠 MERN Stack Developer • 🔥 Code Alchemist • 🇧🇩 From Bangladesh<br/>
+  💡 Turning ideas into interactive realities | Obsessed with dev & design
 </p>
 
-  <!-- <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> -->
-  <!-- <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" /> -->
+---
 
-  <!-- <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" /> -->
-  <!-- <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> -->
-  <!-- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> -->
+## 🚀 About Me
+
+- 🎯 **Self-taught builder** who crafts fun, scalable, and impactful apps
+- ⚙️ **MERN + TypeScript + Firebase** are my comfort zones
+- 🧪 **Always experimenting** — currently playing with 3D web & AI stuff 🔮
+- 🤝 **People-first mindset** — real users, real feedback, real growth
+- 💬 Curious about my journey or want to collaborate? [Ask me anything!](https://github.com/dev-sajjadhosan/issues)
+- 🧘‍♂️ **Philosophy**: *If you're not having fun building it, you're doing it wrong*
+
+---
+
+## 🛠 My Tech Toolbox
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,tailwind,react,nextjs,electron" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,socketio" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
+</p>
+
+---
+
+## 🌟 Highlights
+
+- ✅ Built **full-stack apps** with real users and real feedback
+- 🧩 Designed **reusable components & scalable APIs**
+- 💬 Contributor to **open-source**, always open to ideas
+- 🧠 Made **500+ yearly GitHub contributions** and counting
+- 🧑‍🤝‍🧑 Supportive in **community forums & issue discussions**
+
+---
+
+## 📈 GitHub Vibes
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-sajjadhosan&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sajjadhosan&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
+
+---
+
+## 🧩 Fun Facts
+
+- 🎮 Projects that *feel like games or tools*? I love those!
+- 🧪 Breaking things on purpose just to fix them better? Yes, please.
+- 🌌 Big dream: Build something *millions love* — useful, open, and beautiful
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:devsajjadhosan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/devsajjadhosan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dev-sajjadhosan">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/MohammadSajjadHosan0">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Code like it's art. Design like it speaks. Ship like it's alive.”</em> — <strong>Me, probably 😎</strong>
+</p>
+
+---
