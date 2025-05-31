@@ -64,17 +64,17 @@
 
 ## Contact me 😎
 <p>
-<a href="">
+<a href="https://web.facebook.com/MohammadSajjadHosan0">
   <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-<a href="">
+<a href="https://github.com/dev-sajjadhosan">
   <img alt="Github" src="https://img.shields.io/badge/-Github-323232?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="">
-  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-D32F87?style=flat-square&logo=Instagram&logoColor=white" /></a>
-<a href="">
+<!-- <a href="">
+  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-D32F87?style=flat-square&logo=Instagram&logoColor=white" /></a> -->
+<a href="https://www.linkedin.com/in/devsajjadhosan">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1877F2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="">
-  <img alt="Discord" src="https://img.shields.io/badge/-LinkedIn-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
-<a href="">
+<!-- <a href="">
+  <img alt="Discord" src="https://img.shields.io/badge/-LinkedIn-7289DA?style=flat-square&logo=discord&logoColor=white" /></a> -->
+<a href="mailto:devsajjadhosan@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-F4B400?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
