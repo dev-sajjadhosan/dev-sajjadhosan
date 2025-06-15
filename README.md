@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hey, I'm <span style="color:#00C9A7">Sajjad</span> 👋</h1>
+<h1 align="center">Hey, I'm <span style="color:#00C9A7">Mohammad Sajjad Hosan</span> 👋</h1>
 
 <p align="center">
   🧠 MERN Stack Developer • 🔥 Code Alchemist • 🇧🇩 From Bangladesh<br/>
