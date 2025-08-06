@@ -1,73 +1,28 @@
 <p align="center">
   <a href="https://dev-sajjadhosan.github.io" target="_blank">
-    <img src="./assets/dev_sajjadhosan.png" alt="Hey, I'm Sajjad Hosan!" width="80%">
+     <img src="./assets/dev_sajjadhosan.jpg" alt="Mohamamd Sajjad Hosan" width="80%" />
   </a>
 </p>
 
-<h1 align="center">Hey, I'm <span style="color:#00C9A7">Mohammad Sajjad Hosan</span> 👋</h1>
 
 <p align="center">
-  🧠 MERN Stack Developer • 🔥 Code Alchemist • 🇧🇩 From Bangladesh<br/>
-  💡 Turning ideas into interactive realities | Obsessed with dev & design
+Assakamu Alaikum
 </p>
-
----
-
-## 🚀 About Me
-
-- 🎯 **Self-taught builder** who crafts fun, scalable, and impactful apps
-- ⚙️ **MERN + TypeScript + Firebase** are my comfort zones
-- 🧪 **Always experimenting** — currently playing with 3D web & AI stuff 🔮
-- 🤝 **People-first mindset** — real users, real feedback, real growth
-- 💬 Curious about my journey or want to collaborate? [Ask me anything!](https://github.com/dev-sajjadhosan/issues)
-- 🧘‍♂️ **Philosophy**: *If you're not having fun building it, you're doing it wrong*
-
----
-
-## 🛠 My Tech Toolbox
-
+<i>
+<h1 align="center">I' me Mohammad Sajjad Hosan 👋</h1>
+</i>
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,tailwind,react,nextjs,electron" />
+  MERN Stack Developer · Code Alchemist · Based in 🇧🇩 Bangladesh  
   <br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,socketio" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
+  Passionate about turning ideas into interactive realities
 </p>
-
----
-
-## 🌟 Highlights
-
-- ✅ Built **full-stack apps** with real users and real feedback
-- 🧩 Designed **reusable components & scalable APIs**
-- 💬 Contributor to **open-source**, always open to ideas
-- 🧠 Made **500+ yearly GitHub contributions** and counting
-- 🧑‍🤝‍🧑 Supportive in **community forums & issue discussions**
-
----
-
-## 📈 GitHub Vibes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-sajjadhosan&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sajjadhosan&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+    
+<a href="https://mohammadsajjadhosan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&color=black" />
+  </a>
 </p>
-
----
-
-## 🧩 Fun Facts
-
-- 🎮 Projects that *feel like games or tools*? I love those!
-- 🧪 Breaking things on purpose just to fix them better? Yes, please.
-- 🌌 Big dream: Build something *millions love* — useful, open, and beautiful
-
----
-
-## 🔗 Connect With Me
-
 <p align="center">
   <a href="mailto:devsajjadhosan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -83,10 +38,171 @@
   </a>
 </p>
 
----
+```ts
+// 🧠 Developer Brain.exe
+
+while (true) {
+  let idea = getRandomIdea();
+  if (isGenius(idea)) {
+    build(idea);
+    break;
+  } else {
+    overthink(idea);
+    getSnacks();
+  }
+}
+```
+
+###  About Me
+```
+
+- 🔧 **Self-taught full-stack developer** with a love for clean code & design
+- 🧠 Specializing in **MERN, TypeScript, Firebase**, and now exploring **3D Web + AI**
+- 🤝 I build with a **user-first** mindset and enjoy collaborating with communities
+- 💬 Curious about my work or journey? [Open an issue](https://github.com/dev-sajjadhosan/issues)
+
+```
+
+### My Hobbies
+
+```ts
+
+    - Create Unique Design & Logic Coding
+    - Explore new Tech & Learn it Quickly
+    - Love to build Open-Source Project
+```
+
+## 🛠 Tech Toolbox
+
+## 💻 Frontend
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="40" /><br/>HTML5
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="40" /><br/>CSS3
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="40" /><br/>JavaScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" /><br/>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="40" /><br/>React.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br/>Next.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br/>TailwindCSS
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=electron" width="40" /><br/>Electron
+    </td>
+  </tr>
+</table>
+
+
+
+## 🔧 Backend
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br/>Node.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=express" width="40" /><br/>Express.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br/>MongoDB
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" /><br/>Firebase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=socketio" width="40" /><br/>Socket.IO
+    </td>
+  </tr>
+</table>
+
+
+
+## ☁️ Hosting / DevOps
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vercel" width="40" /><br/>Vercel
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" /><br/>Firebase
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=render" width="40" /><br/>Render
+    </td>
+  </tr>
+</table>
+
+
+## 🛠 Tools & Others
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="40" /><br/>Git
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="40" /><br/>GitHub
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br/>VS Code
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" /><br/>Postman
+    </td>
+  </tr>
+</table>
+
+## 📌 Career Highlights
+```
+- 🧩 Built **real-world full-stack projects** with real feedback
+- 📦 Designed **reusable UI components & REST APIs**
+- 🤲 Actively contribute to **open-source projects & dev communities**
+```
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <em>“Code like it's art. Design like it speaks. Ship like it's alive.”</em> — <strong>Me, probably 😎</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-sajjadhosan&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sajjadhosan&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 
----
+
+## 💡 Fun Facts
+```
+- 🎮 I love building **tools that feel like games**
+- 🧪 I intentionally break stuff… just to **rebuild smarter**
+- 🌍 My dream: **build something millions use — useful, open, and beautiful**
+```
+
+```
+<p align="center"><em>"Code like art. Design like it speaks. Ship like it's alive."</em></p>
+```
+
+
+
+
+
+
+
+
+
+
