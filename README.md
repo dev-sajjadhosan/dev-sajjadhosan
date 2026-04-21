@@ -1,29 +1,28 @@
+<br/>
+<br/>
 <p align="center">
   <a href="https://dev-sajjadhosan.github.io" target="_blank">
-     <img src="./assets/dev_sajjadhosan.jpg" alt="Mohamamd Sajjad Hosan" width="80%" />
+     <img src="./assets/dev_sajjadhosan.png" alt="Mohamamd Sajjad Hosan" width="80%" />
   </a>
 </p>
 
-
-<p align="center">
+<h3 align="center">
 Assakamu Alaikum
-</p>
+</h3>
 <i>
-<h1 align="center">I' me Mohammad Sajjad Hosan 👋</h1>
+<h1 align="center">I'm Mohammad Sajjad Hosan 👋</h1>
 </i>
-<p align="center">
-  MERN Stack Developer · Code Alchemist · Based in 🇧🇩 Bangladesh  
+<h4 align="center">
+  Full Stack Developer (Next.js · Node.js · TypeScript)  
   <br/>
-  Passionate about turning ideas into interactive realities
-</p>
+  Building scalable, production-ready web applications
+</h4>
 
 <p align="center">
     
 <a href="https://mohammadsajjadhosan.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&color=black" />
   </a>
-</p>
-<p align="center">
   <a href="mailto:devsajjadhosan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -38,171 +37,86 @@ Assakamu Alaikum
   </a>
 </p>
 
-```ts
-// 🧠 Developer Brain.exe
+### About Me
 
-while (true) {
-  let idea = getRandomIdea();
-  if (isGenius(idea)) {
-    build(idea);
-    break;
-  } else {
-    overthink(idea);
-    getSnacks();
-  }
-}
 ```
+Assalamu Alaikum!
 
-###  About Me
-```
+I'm a Full Stack Developer who enjoys building things — not just making them work, but making them work well.
 
-- 🔧 **Self-taught full-stack developer** with a love for clean code & design
-- 🧠 Specializing in **MERN, TypeScript, Firebase**, and now exploring **3D Web + AI**
-- 🤝 I build with a **user-first** mindset and enjoy collaborating with communities
-- 💬 Curious about my work or journey? [Open an issue](https://github.com/dev-sajjadhosan/issues)
+My journey started with curiosity and grew into a craft I take seriously every day. Late-night debugging, production deployment battles, moments where everything finally clicked — every one of them made me a sharper developer.
+
+What makes me a little different — I don't just work in software. Mobile servicing, PC repair, and electronics have taught me to think at the system level, not just the screen level. When you understand both the software and the machine running it, you debug differently. You think differently.
+
+I explore what others have built to spark new ideas, then turn that inspiration into something creative and uniquely my own. I'm not interested in copy-pasting solutions — I'm interested in understanding them deeply and making something better.
+
+I contribute to open source because I believe in building in public and giving back to the community that helped me grow.
 
 ```
 
-### My Hobbies
+### 🛠️ What I Work With
 
-```ts
+```
+### 🛠️ Tech Stack
 
-    - Create Unique Design & Logic Coding
-    - Explore new Tech & Learn it Quickly
-    - Love to build Open-Source Project
+#### 🚀 Frontend
+Next.js · React · TypeScript
+Tailwind CSS · shadcn/ui · DaisyUI
+TanStack Query · Zustand
+
+#### ⚙️ Backend
+Node.js · Express
+Prisma ORM · Mongoose
+
+#### 🗄️ Databases
+PostgreSQL · MongoDB · Firebase
+
+#### 🔐 Authentication & Security
+JWT · Better Auth
+
+#### 💳 Payments & Realtime
+Stripe · Socket.IO
+
+#### 🧰 DevOps & Tools
+Docker · Vercel · Render
+Git · GitHub
+
+#### 🧪 Validation & Utilities
+Zod
+
 ```
 
-## 🛠 Tech Toolbox
+### 🎯 What Drives Me
 
-## 💻 Frontend
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="40" /><br/>HTML5
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="40" /><br/>CSS3
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="40" /><br/>JavaScript
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ts" width="40" /><br/>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="40" /><br/>React.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br/>Next.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br/>TailwindCSS
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=electron" width="40" /><br/>Electron
-    </td>
-  </tr>
-</table>
-
-
-
-## 🔧 Backend
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br/>Node.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=express" width="40" /><br/>Express.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br/>MongoDB
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=firebase" width="40" /><br/>Firebase
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=socketio" width="40" /><br/>Socket.IO
-    </td>
-  </tr>
-</table>
-
-
-
-## ☁️ Hosting / DevOps
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vercel" width="40" /><br/>Vercel
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=firebase" width="40" /><br/>Firebase
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=render" width="40" /><br/>Render
-    </td>
-  </tr>
-</table>
-
-
-## 🛠 Tools & Others
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="40" /><br/>Git
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="40" /><br/>GitHub
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br/>VS Code
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postman" width="40" /><br/>Postman
-    </td>
-  </tr>
-</table>
-
-## 📌 Career Highlights
 ```
-- 🧩 Built **real-world full-stack projects** with real feedback
-- 📦 Designed **reusable UI components & REST APIs**
-- 🤲 Actively contribute to **open-source projects & dev communities**
+✦ Problem solving — I sit with hard bugs until I understand them
+
+✦ User-focused products — I build for the person on the other side
+
+✦ Clean, readable code — because the next developer matters too
+
+✦ Purposeful building — if it doesn't benefit the user, I question it
 ```
 
-## 📊 GitHub Stats
+### 🚀 Where I'm Headed
 
-<p align="center">
+```
+Early-stage Full Stack Developer focused on building production-ready applications with modern web technologies. — but I think clearly about where I'm going. I want to grow into a Software Architect, build my own SaaS product, lead a team, and contribute to open source projects that matter.
+
+The goal isn't just a job. It's to become the kind of developer whose work speaks before they do.
+```
+
+### 🌍 What I'm Looking For
+
+```
+I'm looking for a remote Full Stack Developer role where I can contribute from day one and build products that actually matter to people.
+
+If you're building something meaningful — let's talk.
+```
+
+<!-- ## 📊 GitHub Stats -->
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-sajjadhosan&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sajjadhosan&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
-</p>
-
-
-## 💡 Fun Facts
-```
-- 🎮 I love building **tools that feel like games**
-- 🧪 I intentionally break stuff… just to **rebuild smarter**
-- 🌍 My dream: **build something millions use — useful, open, and beautiful**
-```
-
-```
-<p align="center"><em>"Code like art. Design like it speaks. Ship like it's alive."</em></p>
-```
-
-
-
-
-
-
-
-
-
-
+</p> -->
